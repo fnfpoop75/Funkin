@@ -412,4 +412,4 @@ These PRs should only be opened in the `funkin.assets` repository.
 # Closing
 Thank you for reading the Contributing Guide.
 
-We look forward to seeing your contributions to the game!
+We look forward to seeing your contributions to the game!!
